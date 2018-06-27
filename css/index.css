@@ -8,8 +8,8 @@ body{
 }
 
 h1 {
-			font-size: 50px; 
-		}
+	font-size: 50px; 
+}
 
 h2{
 	color: green;
@@ -20,14 +20,26 @@ h3{
 }
 
 .rcorners{
-	border-radius: 15px;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 nav a{
+	background-color: pink;
+	padding:5px;
 	text-decoration: none;
 }
 
 #links {
 	padding: 0px 10px 10px;
 	margin: 0px 0px 10px 10px;
+}
+
+#header {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 1px;
+}
+
+#main-menu{
+	padding:20px;
 }
