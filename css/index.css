@@ -1,5 +1,6 @@
 body{
-	font-family: "Verdana"
+	padding: 20px; 
+	font-family: "Verdana";
 }
 
 #heading{
@@ -29,8 +30,4 @@ a:link{
 #links {
 	padding: 0px 10px 10px;
 	margin: 0px 0px 10px 10px;
-}
-
-#page{
-	padding: 20px;
 }
