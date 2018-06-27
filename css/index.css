@@ -43,3 +43,7 @@ nav a{
 #main-menu{
 	padding:20px;
 }
+
+a:hover{
+	color:orange;
+}
